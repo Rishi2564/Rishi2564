@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm  Rishabh Pradhan  studying in SRM KTR university.<br><br>- 🔭 I’m a second year BTECH CSE CORE STUDENT<br>- 📚 I'm currently learning machine learning.<br>- ⚡ In my free time I try to learn new things.</p>
+<p align="left">I'm  Rishabh Pradhan  studying in SRM KTR university.<br><br>- 🔭 I’m a third year BTECH CSE CORE STUDENT<br>- 📚 I'm currently learning machine learning.<br>- ⚡ In my free time I try to learn new things.</p>
 
 ###
 
