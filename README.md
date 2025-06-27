@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Pradhan</h1>
-<h3 align="center">Iam studying in SRM KTR university. - 🔭 I’m a third year BTECH CSE CORE STUDENT - 📚 I'm currently learning machine learning. - ⚡ In my free time I try to learn new things.</h3>
+<h3 align="center">Iam studying in SRM KTR university. - <br/>🔭 I’m a third year BTECH CSE CORE STUDENT - <br/>📚 I'm currently learning machine learning.<br /> - ⚡ In my free time I try to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi2564&label=Profile%20views&color=0e75b6&style=flat" alt="rishi2564" /> </p>
 
